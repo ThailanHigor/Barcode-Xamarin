@@ -1,0 +1,12 @@
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\bin\Debug\netstandard2.0\BarCode.deps.json
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\bin\Debug\netstandard2.0\BarCode.dll
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\BarCode.csprojAssemblyReference.cache
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\BarCode.csproj.CoreCompileInputs.cache
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\BarCode.AssemblyInfoInputs.cache
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\BarCode.AssemblyInfo.cs
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\bin\Debug\netstandard2.0\BarCode.pdb
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\BarCode.dll
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\BarCode\BarCode\BarCode\obj\Debug\netstandard2.0\BarCode.pdb
